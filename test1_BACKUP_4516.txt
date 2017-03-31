@@ -1,5 +1,9 @@
 This is common-repo test one
+<<<<<<< HEAD
 This is common-repoline two
 This is common-repoline three changed by Lakshan
+=======
+This is common-repo line two
 This is common-repo tishan-edit line three
+>>>>>>> d9d56edbaa6754925257cae0bb682911a036f301
 This is common-repo line four 
